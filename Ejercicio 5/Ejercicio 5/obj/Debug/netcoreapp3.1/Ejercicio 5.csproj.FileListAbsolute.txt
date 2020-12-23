@@ -1,0 +1,12 @@
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.exe
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.deps.json
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.json
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.dev.json
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.dll
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.pdb
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfoInputs.cache
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfo.cs
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.csproj.CoreCompileInputs.cache
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.dll
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.pdb
+D:\Tic Curso Net\Clonaciones_SourceTree\Unidad3\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.genruntimeconfig.cache
